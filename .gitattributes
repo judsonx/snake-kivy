@@ -1,0 +1,13 @@
+* text=auto
+
+*.py text
+Pipfile text
+Pipfile.lock text
+*.kv text
+
+*.gitattributes text
+.gitignore text
+*.md text
+
+.gitattributes export-ignore
+.gitignore export-ignore
